@@ -7,6 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%AA;Angular+%7C+TypeScript+%7C+PHP+%7C+MySQL;NestJS+%7C+NextJS+%7C+Go+%2B+Fiber;Building+solutions+with+passion+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
+<br/>
 <!-- BADGES SOCIALES -->
 <a href="https://zoolve.com" target="_blank">
   <img src="https://img.shields.io/badge/🌐_zoolve.com-302b63?style=for-the-badge&logoColor=white" />
@@ -19,30 +20,44 @@
 </div>
 
 ---
-
+ 
 ## 🧑‍💻 Sobre mí
-
-```ts
-const lnardev = {
-  name     : "Leonardo Pernett",
-  alias    : "@lnardev",
-  location : "🇨🇴 Colombia",
-  company  : "Konecta",
-  website  : "zoolve.com",
-  role     : "Fullstack Developer",
-
-  stack: {
-    work   : ["Angular", "TypeScript", "PHP", "MySQL"],
-    side   : ["NestJS", "NextJS", "Go + Fiber", "PostgreSQL"],
-    infra  : ["AWS EC2", "Ubuntu VPS", "GitHub Actions", "Docker"],
-    tools  : ["VS Code", "Claude Code", "Ghostty", "Git"],
-  },
-
-  passions : ["clean code", "AI tools", "open source", "continuous learning"],
-  motto    : "Working 💪 with passion 🤙",
-};
-```
-
+ 
+<table>
+<tr>
+<td width="55%" valign="top">
+### 👋 ¡Hola, soy Leonardo!
+ 
+Desarrollador **Fullstack** apasionado por construir soluciones que generen impacto real. Con experiencia sólida en entornos enterprise y proyectos SaaS propios, combino pragmatismo y creatividad para entregar software de calidad.
+ 
+<br/>
+| | |
+|---|---|
+| 👤 **Nombre** | Leonardo Pernett |
+| 📍 **Ubicación** | Medellín, Colombia 🇨🇴 |
+| 🏢 **Empresa** | Konecta |
+| 🌐 **Web** | [zoolve.com](https://zoolve.com) |
+| 💼 **Rol** | Fullstack Developer |
+| 🤖 **AI daily driver** | Claude Code |
+| 🎮 **Hobby** | Cult of the Lamb 🐑 |
+| ⚡ **Motto** | *Working with passion 🤙* |
+ 
+<br/>
+> 🚀 Siempre aprendiendo · siempre construyendo · open source lover
+ 
+</td>
+<td width="45%" align="center" valign="top">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding gif" style="border-radius: 12px"/>
+<br/><br/>
+ 
+<img src="https://img.shields.io/badge/Focus-Fullstack_Dev-7c3aed?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Based_in-Colombia_🇨🇴-a78bfa?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/Open_to-Collaborate-22c55e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Always-Learning-f59e0b?style=flat-square"/>
+</td>
+</tr>
+</table>
 ---
 
 ## 🛠️ Stack Tecnológico
