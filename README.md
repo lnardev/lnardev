@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- HEADER ANIMADO -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Leonardo%20Pernett&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=@lnardev%20·%20Fullstack%20Developer&descAlignY=60&descSize=18&descColor=a78bfa" width="100%"/>
 
@@ -7,8 +6,6 @@
 <a href="https://github.com/lnardev">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%AA;Angular+%7C+TypeScript+%7C+PHP+%7C+MySQL;NestJS+%7C+NextJS+%7C+Go+%2B+Fiber;Building+solutions+with+passion+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
 </a>
-
-<br/>
 
 <!-- BADGES SOCIALES -->
 <a href="https://zoolve.com" target="_blank">
@@ -78,35 +75,6 @@ const lnardev = {
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lnardev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&ring_color=7c3aed"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnardev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=8"/>
-
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lnardev&theme=tokyonight&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8&stroke=302b63" />
-</div>
-
----
-
-## 🌟 Repositorios Destacados
-
-<div align="center">
-
-<a href="https://github.com/lnardev/godotenv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lnardev&repo=godotenv&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&icon_color=7c3aed"/>
-</a>
-<a href="https://github.com/lnardev/angular-voice-text">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lnardev&repo=angular-voice-text&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&icon_color=7c3aed"/>
-</a>
-
-<br/><br/>
-
 <a href="https://github.com/lnardev/qrcode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lnardev&repo=qrcode&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&icon_color=7c3aed"/>
 </a>
@@ -116,23 +84,6 @@ const lnardev = {
 
 </div>
 
----
-
-## 🏆 Logros GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lnardev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
-</div>
-
----
-
-## 📈 Actividad reciente
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lnardev&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
----
 
 <div align="center">
 
