@@ -89,22 +89,9 @@ Desarrollador **Fullstack** apasionado por construir soluciones que generen impa
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </div>
 
----
-<a href="https://github.com/lnardev/qrcode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lnardev&repo=qrcode&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&icon_color=7c3aed"/>
-</a>
-<a href="https://github.com/lnardev/clean-code-javascripts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lnardev&repo=clean-code-javascripts&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&icon_color=7c3aed"/>
-</a>
-
-</div>
-
-
+<br />
 <div align="center">
 
-<!-- FOOTER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-<sub>⚡ Hecho con pasión desde 🇨🇴 Colombia · <a href="https://zoolve.com">zoolve.com</a></sub>
+<sub>⚡ Hecho con pasión desde 🇨🇴 Colombia
 
 </div>
