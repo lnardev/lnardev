@@ -1,13 +1,13 @@
 <div align="center">
 <!-- HEADER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Leonardo%20Pernett&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=@lnardev%20·%20Fullstack%20Developer&descAlignY=60&descSize=18&descColor=a78bfa" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Leonardo+Pernett&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Programador+y+Desarrollador+de+Apps&descAlignY=58&descSize=20&descColor=a78bfa" width="100%"/>
 <!-- TYPING ANIMADO -->
 <a href="https://github.com/lnardev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Fullstack+Developer+%26+App+Developer+%F0%9F%92%AA;Programador+apasionado+por+la+tecnolog%C3%ADa+%F0%9F%9A%80;Angular+%7C+TypeScript+%7C+PHP+%7C+MySQL;NestJS+%7C+NextJS+%7C+Go+%2B+Fiber+%7C+Python+%F0%9F%90%8D;Building+solutions+with+passion+%F0%9F%A4%99;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Programador+%26+Desarrollador+de+Apps+%F0%9F%92%AA;Angular+%7C+TypeScript+%7C+PHP+%7C+MySQL;NestJS+%7C+NextJS+%7C+Go+%2B+Fiber+%7C+Python+%F0%9F%90%8D;Construyendo+soluciones+con+pasi%C3%B3n+%F0%9F%9A%80;Siempre+aprendiendo%2C+siempre+creando+%E2%9C%A8;Apps+web%2C+m%C3%B3vil+y+servicios+backend+%F0%9F%8C%90" alt="Typing SVG" />
 </a>
 
 <br/>
+
 <!-- BADGES SOCIALES -->
 <a href="https://zoolve.com" target="_blank">
   <img src="https://img.shields.io/badge/🌐_zoolve.com-302b63?style=for-the-badge&logoColor=white" />
@@ -29,14 +29,16 @@
 
 ### 👋 ¡Hola, soy Leonardo!
 
-Desarrollador **Fullstack** apasionado por construir soluciones que generen impacto real. Con experiencia sólida en entornos enterprise y proyectos SaaS propios, combino pragmatismo y creatividad para entregar software de calidad.
+Programador y **Desarrollador de Apps** apasionado por construir soluciones que generen impacto real. Con experiencia sólida en entornos enterprise y proyectos SaaS propios, combino pragmatismo y creatividad para entregar software de calidad.
 
 <br/>
 
 <table border="0" cellspacing="0" cellpadding="5">
   <tr><td>👤</td><td><strong>Nombre</strong></td><td>Leonardo Pernett</td></tr>
   <tr><td>📍</td><td><strong>Ubicación</strong></td><td>Medellín, Colombia 🇨🇴</td></tr>
-  <tr><td>💼</td><td><strong>Rol</strong></td><td>Fullstack Developer</td></tr>
+  <tr><td>🏢</td><td><strong>Empresa</strong></td><td>Konecta</td></tr>
+  <tr><td>🌐</td><td><strong>Web</strong></td><td><a href="https://zoolve.com">zoolve.com</a></td></tr>
+  <tr><td>💼</td><td><strong>Rol</strong></td><td>Programador & Desarrollador de Apps</td></tr>
   <tr><td>🤖</td><td><strong>AI daily driver</strong></td><td>Claude Code</td></tr>
   <tr><td>🎮</td><td><strong>Hobby</strong></td><td>Cult of the Lamb 🐑</td></tr>
   <tr><td>⚡</td><td><strong>Motto</strong></td><td><em>Working with passion 🤙</em></td></tr>
@@ -53,7 +55,7 @@ Desarrollador **Fullstack** apasionado por construir soluciones que generen impa
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Focus-Fullstack_Dev-7c3aed?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Dev_de_Apps-7c3aed?style=flat-square"/>
 <img src="https://img.shields.io/badge/Based_in-Colombia_🇨🇴-a78bfa?style=flat-square"/>
 <br/>
 <img src="https://img.shields.io/badge/Open_to-Collaborate-22c55e?style=flat-square"/>
@@ -94,9 +96,68 @@ Desarrollador **Fullstack** apasionado por construir soluciones que generen impa
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </div>
 
-<br />
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-<sub>⚡ Hecho con pasión desde 🇨🇴 Colombia
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lnardev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&ring_color=7c3aed"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnardev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=8"/>
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=lnardev&theme=tokyonight&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8&stroke=302b63" />
+</div>
+
+---
+
+## 🌟 Repositorios Destacados
+
+<div align="center">
+
+<a href="https://github.com/lnardev/godotenv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lnardev&repo=godotenv&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&icon_color=7c3aed"/>
+</a>
+<a href="https://github.com/lnardev/angular-voice-text">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lnardev&repo=angular-voice-text&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&icon_color=7c3aed"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/lnardev/qrcode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lnardev&repo=qrcode&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&icon_color=7c3aed"/>
+</a>
+<a href="https://github.com/lnardev/clean-code-javascripts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lnardev&repo=clean-code-javascripts&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&icon_color=7c3aed"/>
+</a>
+
+</div>
+
+---
+
+## 🏆 Logros GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lnardev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
+</div>
+
+---
+
+## 📈 Actividad reciente
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lnardev&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+<!-- FOOTER ANIMADO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+<sub>⚡ Hecho con pasión desde 🇨🇴 Colombia · <a href="https://zoolve.com">zoolve.com</a></sub>
 
 </div>
