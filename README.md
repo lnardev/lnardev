@@ -20,44 +20,51 @@
 </div>
 
 ---
- 
+
 ## 🧑‍💻 Sobre mí
- 
+
 <table>
 <tr>
 <td width="55%" valign="top">
+
 ### 👋 ¡Hola, soy Leonardo!
- 
+
 Desarrollador **Fullstack** apasionado por construir soluciones que generen impacto real. Con experiencia sólida en entornos enterprise y proyectos SaaS propios, combino pragmatismo y creatividad para entregar software de calidad.
- 
+
 <br/>
-| | |
-|---|---|
-| 👤 **Nombre** | Leonardo Pernett |
-| 📍 **Ubicación** | Medellín, Colombia 🇨🇴 |
-| 🏢 **Empresa** | Konecta |
-| 🌐 **Web** | [zoolve.com](https://zoolve.com) |
-| 💼 **Rol** | Fullstack Developer |
-| 🤖 **AI daily driver** | Claude Code |
-| 🎮 **Hobby** | Cult of the Lamb 🐑 |
-| ⚡ **Motto** | *Working with passion 🤙* |
- 
+
+<table border="0" cellspacing="0" cellpadding="5">
+  <tr><td>👤</td><td><strong>Nombre</strong></td><td>Leonardo Pernett</td></tr>
+  <tr><td>📍</td><td><strong>Ubicación</strong></td><td>Medellín, Colombia 🇨🇴</td></tr>
+  <tr><td>🏢</td><td><strong>Empresa</strong></td><td>Konecta</td></tr>
+  <tr><td>🌐</td><td><strong>Web</strong></td><td><a href="https://zoolve.com">zoolve.com</a></td></tr>
+  <tr><td>💼</td><td><strong>Rol</strong></td><td>Fullstack Developer</td></tr>
+  <tr><td>🤖</td><td><strong>AI daily driver</strong></td><td>Claude Code</td></tr>
+  <tr><td>🎮</td><td><strong>Hobby</strong></td><td>Cult of the Lamb 🐑</td></tr>
+  <tr><td>⚡</td><td><strong>Motto</strong></td><td><em>Working with passion 🤙</em></td></tr>
+</table>
+
 <br/>
+
 > 🚀 Siempre aprendiendo · siempre construyendo · open source lover
- 
+
 </td>
 <td width="45%" align="center" valign="top">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding gif" style="border-radius: 12px"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="Coding gif"/>
+
 <br/><br/>
- 
+
 <img src="https://img.shields.io/badge/Focus-Fullstack_Dev-7c3aed?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Based_in-Colombia_🇨🇴-a78bfa?style=flat-square"/>
 <br/>
 <img src="https://img.shields.io/badge/Open_to-Collaborate-22c55e?style=flat-square"/>
 <img src="https://img.shields.io/badge/Always-Learning-f59e0b?style=flat-square"/>
+
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🛠️ Stack Tecnológico
