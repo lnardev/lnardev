@@ -4,7 +4,7 @@
 
 <!-- TYPING ANIMADO -->
 <a href="https://github.com/lnardev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%AA;Angular+%7C+TypeScript+%7C+PHP+%7C+MySQL;NestJS+%7C+NextJS+%7C+Go+%2B+Fiber;Building+solutions+with+passion+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Fullstack+Developer+%26+App+Developer+%F0%9F%92%AA;Programador+apasionado+por+la+tecnolog%C3%ADa+%F0%9F%9A%80;Angular+%7C+TypeScript+%7C+PHP+%7C+MySQL;NestJS+%7C+NextJS+%7C+Go+%2B+Fiber+%7C+Python+%F0%9F%90%8D;Building+solutions+with+passion+%F0%9F%A4%99;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
