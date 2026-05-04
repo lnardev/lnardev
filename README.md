@@ -36,8 +36,6 @@ Programador y **Desarrollador de Apps** apasionado por construir soluciones que 
 <table border="0" cellspacing="0" cellpadding="5">
   <tr><td>👤</td><td><strong>Nombre</strong></td><td>Leonardo Pernett</td></tr>
   <tr><td>📍</td><td><strong>Ubicación</strong></td><td>Medellín, Colombia 🇨🇴</td></tr>
-  <tr><td>🏢</td><td><strong>Empresa</strong></td><td>Konecta</td></tr>
-  <tr><td>🌐</td><td><strong>Web</strong></td><td><a href="https://zoolve.com">zoolve.com</a></td></tr>
   <tr><td>💼</td><td><strong>Rol</strong></td><td>Programador & Desarrollador de Apps</td></tr>
   <tr><td>🤖</td><td><strong>AI daily driver</strong></td><td>Claude Code</td></tr>
   <tr><td>🎮</td><td><strong>Hobby</strong></td><td>Cult of the Lamb 🐑</td></tr>
