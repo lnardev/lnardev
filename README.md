@@ -1,6 +1,6 @@
 <div align="center">
 <!-- HEADER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Leonardo+Pernett+Jimenez&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Programador+y+Desarrollador+de+Apps&descAlignY=58&descSize=20&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Lnardev&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Programador+y+Desarrollador+de+Apps&descAlignY=58&descSize=20&descColor=a78bfa" width="100%"/>
 <!-- TYPING ANIMADO -->
 <a href="https://github.com/lnardev">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Programador+%26+Desarrollador+de+Apps+%F0%9F%92%AA;Angular+%7C+TypeScript+%7C+PHP+%7C+MySQL;NestJS+%7C+NextJS+%7C+Go+%2B+Fiber+%7C+Python+%F0%9F%90%8D;Construyendo+soluciones+con+pasi%C3%B3n+%F0%9F%9A%80;Siempre+aprendiendo%2C+siempre+creando+%E2%9C%A8;Apps+web%2C+m%C3%B3vil+y+servicios+backend+%F0%9F%8C%90" alt="Typing SVG" />
